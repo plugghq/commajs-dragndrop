@@ -1,6 +1,6 @@
 {
   "name": "commajs-dragndrop",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Commajs - The WYSIWYG framework -  dragndrop plugin",
   "main": "dist/commajs-dragndrop.min.js",
   "repository": {
